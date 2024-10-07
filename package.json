@@ -1,15 +1,26 @@
 {
   "name": "dsa-stacks-queues",
   "version": "1.0.0",
-  "description": "",
+  "description": "assignment",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nick Vendetti",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NickVendetti/stacks-queues.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickVendetti/stacks-queues/issues"
+  },
+  "homepage": "https://github.com/NickVendetti/stacks-queues#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
   }
 }
